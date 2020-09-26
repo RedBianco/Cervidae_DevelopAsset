@@ -1,0 +1,2 @@
+# Cervidae_MaterialResource
+リソースファイル管理リポジトリ
