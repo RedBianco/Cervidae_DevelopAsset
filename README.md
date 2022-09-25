@@ -1,2 +1,2 @@
-# Cervidae_DevelopAsset
+# Cervidae_DevelopResource
 リソースファイル管理リポジトリ
